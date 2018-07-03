@@ -13,15 +13,15 @@ redirect_from:
 {::comment} I am delibrately avoiding contractions here, so ESL people can read it easier. {:/}
 
 ## We can't read your language {#introduction}
-Contrary to popular beleif, we can not read your mind; only what you write. When we can not read what you write, we can not answer the question.
+Contrary to popular belief, we can not read your mind; only what you write. When we can not comprehend what you write, we can not answer the question.
 
 ## Why this is a problem {#whythisisaproblem}
-Your post is not in english. That's okay! However, Stack overflow is in english, so anything not in english does not get answered.
-There are several Stack Overflow communities in other languages. If there is one for your language, ask a moderator to migrate it there.
+Your post is not in English. That's okay! However, Stack overflow is in English, so anything not in English does not get answered.
+There are several Stack Overflow communities in other languages. If there is one for your language, ask a moderator to migrate your question there.
 
 ## Why this is worth a downvote {#whythisisworthadownvote}
 {::comment}In this section, you can describe why the problem is worth a downvote within the community in which it was posted{:/}
-If the question is important enough to ask in a dedicated english community, it is worth your time to write it in english.
+If the question is important enough to ask in a dedicated English community, it is worth your time to write it in English.
 
 ## What to do next {#whattodonext}
 Translate your post! If your English is *really bad*, feel free to use [Google Translate](https://translate.google.com); it is better than nothing.
