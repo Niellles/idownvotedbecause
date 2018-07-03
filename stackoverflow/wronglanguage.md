@@ -13,7 +13,7 @@ redirect_from:
 {::comment} I am delibrately avoiding contractions here, so ESL people can read it easier. {:/}
 
 ## We can't read your language {#introduction}
-Contrary to popular belief, we can not read your mind; only what you write. When we can not comprehend what you write, we can not answer the question.
+Contrary to popular belief, we cannot read your mind; only what you write. When we cannot comprehend what you write, we cannot answer the question.
 
 ## Why this is a problem {#whythisisaproblem}
 Your post is not in English. That's okay! However, Stack overflow is in English, so anything not in English does not get answered.
